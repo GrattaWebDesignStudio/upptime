@@ -1,6 +1,9 @@
 owner: GrattaWebDesignStudio
 repo: upptime # The name of this repository
 
+assignees:
+  - ValeriiVasyliev
+
 sites:
   - name: mmrma
     url: https://mmrma.org/
@@ -21,6 +24,11 @@ status-website:
   name: GrattaWebDesignStudio
   introTitle: "**Gratta Studio** – WordPress & WooCommerce Development Experts"
   introMessage: "We’re a dedicated WordPress Development Agency creating bespoke, high-performance websites and eCommerce solutions"
+  metaTags:
+    - name: "color-scheme"
+      content: "dark light"
+    - name: "robots"
+      content: "noindex"
   navbar:
     - title: Status
       href: /
