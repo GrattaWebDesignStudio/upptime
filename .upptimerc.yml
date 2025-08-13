@@ -31,7 +31,7 @@ status-website:
       content: "noindex"
   navbar:
     - title: Status
-      href: /
+      href: /upptime/
     - title: GrattaWebDesignStudio
       href: https://gratta.pro
       
