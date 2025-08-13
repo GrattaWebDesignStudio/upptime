@@ -18,14 +18,14 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /upptime 
   logoUrl: https://avatars.githubusercontent.com/u/40851165
-  name: Upptime
+  name: GrattaWebDesignStudio
   introTitle: "**Gratta Studio** – WordPress & WooCommerce Development Experts"
   introMessage: "We’re a dedicated WordPress Development Agency creating bespoke, high-performance websites and eCommerce solutions"
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
+    - title: GrattaWebDesignStudio
+      href: https://gratta.pro
+      
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
