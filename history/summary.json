@@ -40,19 +40,19 @@
     "url": "https://ethicsinsight.co/",
     "icon": "https://icons.duckduckgo.com/ip3/ethicsinsight.co.ico",
     "slug": "ethicsinsight",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2622,
-    "timeDay": 4380,
-    "timeWeek": 2622,
-    "timeMonth": 2622,
-    "timeYear": 2622,
+    "status": "up",
+    "uptime": "99.45%",
+    "uptimeDay": "96.89%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.45%",
+    "time": 3518,
+    "timeDay": 10669,
+    "timeWeek": 3518,
+    "timeMonth": 3518,
+    "timeYear": 3518,
     "dailyMinutesDown": {
-      "2025-08-18": 0
+      "2025-08-18": 45
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 148,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2025-08-18": 788,
+      "2025-08-18": 833,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
