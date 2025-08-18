@@ -40,9 +40,9 @@
     "url": "https://ethicsinsight.co/",
     "icon": "https://icons.duckduckgo.com/ip3/ethicsinsight.co.ico",
     "slug": "ethicsinsight",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 2622,
     "timeMonth": 2622,
     "timeYear": 2622,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-18": 0
+    }
   },
   {
     "name": "vanyoo",
@@ -70,7 +72,7 @@
     "timeMonth": 148,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2025-08-18": 32,
+      "2025-08-18": 788,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
