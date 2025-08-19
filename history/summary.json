@@ -40,7 +40,7 @@
     "url": "https://ethicsinsight.co/",
     "icon": "https://icons.duckduckgo.com/ip3/ethicsinsight.co.ico",
     "slug": "ethicsinsight",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
     "uptimeDay": "98.75%",
     "uptimeWeek": "99.37%",
@@ -73,7 +73,7 @@
     "timeMonth": 143,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2025-08-19": 1204,
+      "2025-08-19": 1248,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
