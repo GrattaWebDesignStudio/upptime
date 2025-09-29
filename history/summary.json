@@ -4,19 +4,19 @@
     "url": "https://mmrma.org/",
     "icon": "https://icons.duckduckgo.com/ip3/mmrma.org.ico",
     "slug": "mmrma",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 341,
-    "timeDay": 290,
-    "timeWeek": 335,
+    "timeDay": 309,
+    "timeWeek": 336,
     "timeMonth": 340,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2025-09-29": 0
+      "2025-09-29": 13
     }
   },
   {
@@ -78,7 +78,7 @@
     "timeMonth": 170,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2025-09-29": 393,
+      "2025-09-29": 407,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
