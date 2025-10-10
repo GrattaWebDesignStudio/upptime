@@ -4,9 +4,9 @@
     "url": "https://mmrma.org/",
     "icon": "https://icons.duckduckgo.com/ip3/mmrma.org.ico",
     "slug": "mmrma",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 346,
     "timeMonth": 333,
     "timeYear": 339,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-10": 0
+    }
   },
   {
     "name": "boundaryelectric",
@@ -30,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 412,
     "timeDay": 603,
-    "timeWeek": 451,
+    "timeWeek": 505,
     "timeMonth": 399,
     "timeYear": 412,
     "dailyMinutesDown": {}
@@ -78,7 +80,7 @@
     "timeMonth": 239,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2025-10-10": 28,
+      "2025-10-10": 1177,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 1403,
