@@ -22,19 +22,19 @@
     "url": "https://www.boundaryelectric.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.boundaryelectric.com.ico",
     "slug": "boundaryelectric",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 424,
-    "timeDay": 173,
-    "timeWeek": 474,
+    "time": 425,
+    "timeDay": 316,
+    "timeWeek": 472,
     "timeMonth": 462,
-    "timeYear": 424,
+    "timeYear": 425,
     "dailyMinutesDown": {
-      "2025-11-15": 0
+      "2025-11-15": 4
     }
   },
   {
