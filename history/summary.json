@@ -24,18 +24,16 @@
     "slug": "boundaryelectric",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 425,
     "timeDay": 316,
     "timeWeek": 472,
     "timeMonth": 462,
     "timeYear": 425,
-    "dailyMinutesDown": {
-      "2025-11-15": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ethicsinsight",
@@ -70,11 +68,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.vanyoo.com.ico",
     "slug": "vanyoo",
     "status": "up",
-    "uptime": "32.70%",
+    "uptime": "32.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
-    "uptimeYear": "32.70%",
+    "uptimeYear": "32.74%",
     "time": 1706,
     "timeDay": 2509,
     "timeWeek": 2603,
