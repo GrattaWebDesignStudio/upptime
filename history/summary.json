@@ -36,7 +36,7 @@
     "timeMonth": 99,
     "timeYear": 99,
     "dailyMinutesDown": {
-      "2026-01-06": 278
+      "2026-01-06": 284
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://ethicsinsight.co/",
     "icon": "https://icons.duckduckgo.com/ip3/ethicsinsight.co.ico",
     "slug": "ethicsinsight",
-    "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.09%",
-    "uptimeYear": "99.58%",
-    "time": 3865,
-    "timeDay": 9320,
-    "timeWeek": 4166,
-    "timeMonth": 4306,
-    "timeYear": 3865,
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "99.57%",
+    "time": 3859,
+    "timeDay": 7472,
+    "timeWeek": 4054,
+    "timeMonth": 4286,
+    "timeYear": 3859,
     "dailyMinutesDown": {
-      "2026-01-06": 0,
+      "2026-01-06": 6,
       "2025-12-29": 74,
       "2025-12-28": 40,
       "2025-12-27": 18,
