@@ -29,7 +29,7 @@
     "uptime": "11.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "40.99%",
+    "uptimeMonth": "41.03%",
     "uptimeYear": "11.97%",
     "time": 174,
     "timeDay": 202,
@@ -141,10 +141,10 @@
     "url": "https://ethicsinsight.co/",
     "icon": "https://icons.duckduckgo.com/ip3/ethicsinsight.co.ico",
     "slug": "ethicsinsight",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "92.31%",
-    "uptimeWeek": "97.54%",
+    "uptimeDay": "92.30%",
+    "uptimeWeek": "97.53%",
     "uptimeMonth": "98.57%",
     "uptimeYear": "99.31%",
     "time": 4046,
@@ -220,8 +220,7 @@
       "2025-12-09": 16,
       "2025-12-08": 54,
       "2025-12-07": 28,
-      "2025-12-04": 30,
-      "2025-11-30": 17
+      "2025-12-04": 30
     }
   },
   {
