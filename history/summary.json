@@ -224,17 +224,17 @@
     "url": "https://www.vanyoo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.vanyoo.com.ico",
     "slug": "vanyoo",
-    "status": "up",
+    "status": "down",
     "uptime": "78.06%",
-    "uptimeDay": "92.77%",
-    "uptimeWeek": "98.97%",
+    "uptimeDay": "92.75%",
+    "uptimeWeek": "98.96%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "78.06%",
-    "time": 5345,
-    "timeDay": 10426,
-    "timeWeek": 4992,
-    "timeMonth": 4544,
-    "timeYear": 5345,
+    "time": 5391,
+    "timeDay": 14160,
+    "timeWeek": 7029,
+    "timeMonth": 5092,
+    "timeYear": 5391,
     "dailyMinutesDown": {
       "2025-09-19": 1434,
       "2025-09-18": 1440,
@@ -339,7 +339,8 @@
       "2026-04-23": 82,
       "2026-06-05": 93,
       "2026-06-06": 81,
-      "2026-06-14": 104
+      "2026-06-14": 104,
+      "2026-06-15": 0
     }
   }
 ]
